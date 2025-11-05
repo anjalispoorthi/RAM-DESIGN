@@ -1,3 +1,4 @@
+
 # RAM-DESIGN
 
 #COMPANY: CODEC IT SOLUTIONS
@@ -25,3 +26,7 @@ Synchronous read and write operations performed on the rising clock edge
 The design was verified using a Verilog testbench, where values were written into memory and then read back to confirm correctness. The functionality was simulated and visualized using waveform tools in Xilinx Vivado.
 
 ##OUTPUT
+
+<img width="1006" height="532" alt="Image" src="https://github.com/user-attachments/assets/9c9714be-66f8-44ee-9682-241551907fdc" />
+
+<img width="1549" height="207" alt="Image" src="https://github.com/user-attachments/assets/0ed07a97-6c99-4f2e-b027-2a695734c204" />
